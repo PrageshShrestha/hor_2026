@@ -1,0 +1,118 @@
+{
+    "chitwan-2": {
+        "district": "Chitwan",
+        "constituency": "2",
+        "reason": "Seat vacant after Rabi Lamichhane was disqualified over citizenship issues",
+        "election_date": "2023-04-23",
+        "candidates": [
+            {
+                "name": "रवि लामिछाने",
+                "party": "राष्ट्रिय स्वतन्त्र पार्टी",
+                "votes": 45872,
+                "status": "Elected",
+                "symbol": "symbols/rsp_bell.png"
+            },
+            {
+                "name": "जीत नारायण श्रेष्ठ",
+                "party": "नेपाली काँग्रेस",
+                "votes": 35241,
+                "status": "Challenger",
+                "symbol": "symbols/congress_tree.svg"
+            },
+            {
+                "name": "रामवीर मानन्धर",
+                "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)",
+                "votes": 8976,
+                "status": "Challenger",
+                "symbol": "symbols/uml_sun.png"
+            }
+        ]
+    },
+    "bara-2": {
+        "district": "Bara",
+        "constituency": "2",
+        "reason": "Seat vacant after Ram Sahay Prasad Yadav was elected Vice President of Nepal",
+        "election_date": "2023-04-23",
+        "candidates": [
+            {
+                "name": "उपेन्द्र यादव",
+                "party": "जनता समाजवादी पार्टी, नेपाल",
+                "votes": 38945,
+                "status": "Elected",
+                "symbol": "symbols/jsp_umbrella.png"
+            },
+            {
+                "name": "रमेश रोशन यादव",
+                "party": "नेपाली काँग्रेस",
+                "votes": 28732,
+                "status": "Challenger",
+                "symbol": "symbols/congress_tree.svg"
+            },
+            {
+                "name": "राम अयोध्या प्रसाद यादव",
+                "party": "लोकतान्त्रिक समाजवादी पार्टी",
+                "votes": 18934,
+                "status": "Challenger",
+                "symbol": "symbols/janamat_horn.png"
+            }
+        ]
+    },
+    "tanahun-1": {
+        "district": "Tanahun",
+        "constituency": "1",
+        "reason": "Seat vacant after Ram Chandra Paudel was elected President of Nepal",
+        "election_date": "2023-04-23",
+        "candidates": [
+            {
+                "name": "स्वर्णिम वाग्ले",
+                "party": "राष्ट्रिय स्वतन्त्र पार्टी",
+                "votes": 41256,
+                "status": "Elected",
+                "symbol": "symbols/rsp_bell.png"
+            },
+            {
+                "name": "गोविन्द भट्टराई",
+                "party": "नेपाली काँग्रेस",
+                "votes": 35892,
+                "status": "Challenger",
+                "symbol": "symbols/congress_tree.svg"
+            },
+            {
+                "name": "हेरम्ब बहादुर के.सी.",
+                "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)",
+                "votes": 9876,
+                "status": "Challenger",
+                "symbol": "symbols/uml_sun.png"
+            }
+        ]
+    },
+    "ilam-2": {
+        "district": "Ilam",
+        "constituency": "2",
+        "reason": "Seat vacant after death of sitting MP Krishna Prasad Sitaula",
+        "election_date": "2024-04-27",
+        "candidates": [
+            {
+                "name": "प्रकाश चन्द्र लोहनी",
+                "party": "राष्ट्रिय स्वतन्त्र पार्टी",
+                "votes": 34567,
+                "status": "Elected",
+                "symbol": "symbols/rsp_bell.png"
+            },
+            {
+                "name": "विजय सुबेदी",
+                "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)",
+                "votes": 29834,
+                "status": "Challenger",
+                "symbol": "symbols/uml_sun.png"
+            },
+            {
+                "name": "डम्बर बहादुर खड्का",
+                "party": "नेपाली काँग्रेस",
+                "votes": 15432,
+                "status": "Challenger",
+                "symbol": "symbols/congress_tree.svg"
+            }
+        ]
+    }
+}
